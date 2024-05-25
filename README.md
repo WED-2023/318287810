@@ -12,7 +12,7 @@
    
 נהנתי מאוד מבניית האתר מקווה שתהנו:)
 
-קישור לאתר בגיט: https://wed-2023.github.io/assignment1-ShilatAlon/
+קישור לאתר בגיט: https://wed-2023.github.io/318287810/
 
 
 
