@@ -4,7 +4,6 @@ body {
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
-	/*font-family: Arial, sans-serif;*/
 	font-family: monospace;
 	font-style: italic;
 	font-size: larger;
@@ -96,9 +95,7 @@ h1, h2 {
 	justify-content: center;
 	margin: 20px;
 }
-.slick-dots li.slick-active button:before{
-	color: orange
-}
+
 #contactForm {
 	width: 50%;
 	margin: 0 auto;
@@ -119,10 +116,11 @@ h1, h2 {
 	margin: 5px 0 20px;
 	box-sizing: border-box;
 }
+
 #contactForm select{
-	padding: 15px;
+	padding: 10px;
 	margin: 10px 0 25px;
-	font-size: 24px;
+	font-size: 30px;
 }
 
 button {
@@ -140,6 +138,6 @@ button {
 	transition: background-color 0.3s ease;
 }
 
-button:hover {
-	background-color: #7e9fd9;
-}
+/*button:hover {*/
+/*	background-color: #7e9fd9;*/
+/*}*/
